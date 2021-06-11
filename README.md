@@ -4,7 +4,7 @@
 
 class AboutMe:
 
-  def __init__(self, eductaion, projects, hobby, connect:
+  def __init__(self, eductaion, projects, hobby, connect):
     self.education = education
     self.projects = projects
     self.hobby = hobby
