@@ -12,27 +12,26 @@ class AboutMe:
   
   
   def myEducation(self, education):
-    mySkills = ["Python", "Java", "HTML/CSS"]
+    mySkills = ["Python", "Java", "Solidity"]
     for i in mySkills:
       print(i)
   
   def myProjects(self, projects):
-    projects = ["DisSlash", "MNIST", "ProjectList", "SimpleList"]
+    projects = ["DisSlash", "MyCoin", "QuickQR"]
     for i in projects:
       print(i)
   
   def myHobbies(self, hobby):
-    hobbies = ["Machine Learning", "3D Printing", "Audible", "Web Develpemnt"]
+    hobbies = ["Machine Learning", "3D Design", "Smart Contracts", "Web Develpemnt", "Crypto/NFT's"]
     for i in hobbies:
       print(i)
   
   def mtConnections(self, connect):
     GitHub = "https://github.com/neilshah2026"
-    Portfolio = "https://neilshahdev.tk"
-    HomeEmail = "neildshah1013@gmail.com"
+    Portfolio = "https://neilshah.dev"
+    ContactEmail = "neil@neilshah.dev"
     CompnayEmail = "neil@insight3d.tech"
-    ProjectList = "https://github.com/NeilShah2026/Beginner-Projects"
-    SimpleList = "https://github.com/NeilShah2026/SimpleList"
+    PhoneNumber = (617)-704-3116
     
 def bye():
   print("Bye! 👋")
